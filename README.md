@@ -26,8 +26,8 @@ Plot the performance plot
 ### STEP 7:
 Evaluate the model with the testing data.
 ## PROGRAM:
-### Name: Rithiga Sri.B
-### Register Number: 212221230083
+### Name: Madhan kumar J
+### Register Number: 2305001016
 ```python
 from google.colab import auth
 import gspread
@@ -87,13 +87,17 @@ model.predict(X_n1_1)
 
 ## OUTPUT:
 ### Training Loss Vs Iteration Plot:
-![image](https://github.com/Rithigasri/basic-nn-model/assets/93427256/a7b48087-1179-4781-8786-e3d160344202)
+<img width="817" height="638" alt="image" src="https://github.com/user-attachments/assets/7119fabf-0808-4ea8-babe-79c7702efd9b" />
+
 ### Epoch Training:
-![image](https://github.com/Rithigasri/basic-nn-model/assets/93427256/1247ecf7-80e4-4443-ab84-c09d0cd4d541)
+<img width="663" height="280" alt="image" src="https://github.com/user-attachments/assets/3efc00f4-453e-49bd-9169-2d3853c0bacc" />
+
 ### Test Data Root Mean Squared Error:
-![image](https://github.com/Rithigasri/basic-nn-model/assets/93427256/0114d30a-8081-4205-a158-95efe5450804)
+<img width="651" height="110" alt="image" src="https://github.com/user-attachments/assets/4c5a7f20-5f3d-4336-91a9-1f2deb311ec1" />
+
 ### New Sample Data Prediction:
-![image](https://github.com/Rithigasri/basic-nn-model/assets/93427256/ea52cc7b-b09f-400c-90e8-a8170793c2ef)
+<img width="499" height="122" alt="image" src="https://github.com/user-attachments/assets/cd3c7730-c7dc-4223-8de3-f0d44147aa9e" />
+
 
 
 ## RESULT:
